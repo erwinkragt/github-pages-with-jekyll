@@ -1,5 +1,5 @@
----
-title: "Welcome to my blog"
----
+# Erwin Kragt
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my page!
+
+Here I will more content
